@@ -47,7 +47,7 @@ def listaUnica(l):
      print(novalista)
 def testprimo(n)
     if (n==1):
-        return n, "não ´pe primo"
+        return n, "não e primo"
 
 
 
