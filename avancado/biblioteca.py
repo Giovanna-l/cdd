@@ -1,4 +1,4 @@
-def impar (n):
+'''def impar (n):
     if n % 2 != 0:
         print("numero impar")
 def imprimeNome(nome):
@@ -27,8 +27,8 @@ def soma(*numeros):
    for y in range(ta):
        soma += numeros[y]
    print(soma)
-
-
+'''
+'''class Pessoa():
 def text(tex):
     tam= len(tex)
     conta=tam
@@ -48,8 +48,10 @@ def listaUnica(l):
 def testprimo(n)
     if (n==1):
         return n, "não e primo"
-
-
+'''
+class Pessoa():
+    def __int__(self, nome, peso, ):
+        self.nome=nome
 
 
 
